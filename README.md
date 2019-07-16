@@ -1,3 +1,5 @@
+此为Android热敏打印的Androidx版本，由于我与原版本的zxing包冲突，所以下载下来改成x版本上传。
+项目原地址：https://github.com/GrassQing/CommonPrintProvider
 # CommonPrintProvider
 wifi实测过，指令内容通用，蓝牙类的自要能连连接上打印机，其他打印步奏基本一致。
 我的博客地址：http://www.jianshu.com/p/c8a1c7803cfd
